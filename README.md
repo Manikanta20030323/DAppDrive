@@ -23,8 +23,8 @@ This project is a decentralized alternative to Google Drive, built on the Ethere
 ### Steps
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/blockchain-drive.git
-    cd blockchain-drive
+    git clone https://github.com/Manikanta20030323/DAppDrive.git
+    cd DAppDrive
     ```
 
 2. **Install Dependencies**
