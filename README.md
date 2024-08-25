@@ -54,11 +54,11 @@ This project is a decentralized alternative to Google Drive, built on the Ethere
 ## Usage
 - **Upload Files**: Users can select files from their local machine and upload them to IPFS via Pinata.
 - **View Files**: Uploaded files are listed with their corresponding IPFS hashes and can be accessed directly from the IPFS gateway.
+- **Share Access**: Users can grant access to their uploaded documents to other users by sharing the IPFS hash and access details, ensuring secure and controlled file sharing.
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License.
 
 ```
